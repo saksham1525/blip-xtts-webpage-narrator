@@ -1,7 +1,10 @@
-requests
-beautifulsoup4
-pillow
-scipy
-transformers
-torch
-TTS
+requests==2.32.5
+beautifulsoup4==4.14.2
+pillow==12.0.0
+scipy==1.16.3
+transformers==4.35.0
+torch==2.1.0
+torchaudio==2.1.0
+TTS==0.22.0
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
